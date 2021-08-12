@@ -1,0 +1,192 @@
+.container{
+    margin-top: 50px;
+}
+.con-1{
+width: 1440px;
+height: auto;
+background: #F0FFF0;
+}
+.ill{
+    width: 400px;
+    height: 300px;
+  
+}
+.ill-2{
+    width: 400px;
+    height: 300px;
+    
+  
+}
+.ill-1{
+    margin-top:20px;
+    width: 500px;
+    height: 400px;
+    
+}
+
+.logo{
+    height: 50px;
+    margin-left: 100px;
+}
+#navbarNav{
+    margin-right: 80px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+h3{
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#FD511A;
+}
+p{
+    padding: 10px;
+    text-align: justify;
+}
+.p-1{
+    font-family: poppirls;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+    width: 300px;
+    height: 85px;
+    mix-blend-mode:pss through;
+    padding: 20px;
+}
+.p-2{
+    width: 500px;
+    margin-left: 0px;
+    margin-right: 50px;
+  margin-bottom: 100px;
+}
+h1{
+    width: 300px;
+    height: 80px;
+    font-weight: 700;
+    left: 205px;
+    line-height: 40px;
+    font-size: 33px;
+    
+}
+.h1{
+    text-align: center;
+}
+span{
+    color: #21B573;
+}
+.buy-now-button{
+    
+    color: #fff;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    background: #21B573;
+    margin-top: 5px;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 28px;
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+    background: #21B573;
+    border-radius: 40px;
+}
+.card-img-top{
+    width: 20px;
+    height: auto;
+}
+
+.card-img{
+   
+    width: 20px;
+    height: 20px;
+    top: 672px;
+    left: 231px;
+    background: url(image.png);
+    text-align: center;
+}
+.img-icon-2{
+    width: 20px;
+    height: 20px;
+    right: 0px;
+    
+}
+.img-icon-3{
+    width: 40px;
+    height: auto;
+    right: 0px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    ;
+}
+.card-body{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+.card-footer{
+    margin-top: 50px;
+}
+.card-footer-right{
+    float: right;
+}
+.online{
+    text-align: center;
+}
+.card-footer-left{
+    float: left;
+}
+.img-man{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 200px;
+}
+.img-1{
+    padding: 5px;
+    margin-top:250px ;
+    height: 150px;
+    width: 150px;
+}
+.img-2{
+    height: 400px;
+}
+.but{
+    text-align: end;
+}
+h6{
+    color: sandybrown;
+    text-align: right;
+}
+
+.cat-img-1{
+    margin-top: 120px;
+}
+.cat-im{
+    width: 500px;
+}
+.text-ariya{
+    margin-top: 100px;
+     background:#282531 ; 
+     color:#FFFFFF;
+     
+}
+
+.footer-text{
+    text-align: center;
+    margin-top: 50px;
+}
